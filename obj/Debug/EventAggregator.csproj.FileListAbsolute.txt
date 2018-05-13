@@ -1,0 +1,5 @@
+C:\Users\Ben\Downloads\EventAggregator\EventAggregator\EventAggregator\bin\Debug\EventAggregator.exe.config
+C:\Users\Ben\Downloads\EventAggregator\EventAggregator\EventAggregator\bin\Debug\EventAggregator.exe
+C:\Users\Ben\Downloads\EventAggregator\EventAggregator\EventAggregator\bin\Debug\EventAggregator.pdb
+C:\Users\Ben\Downloads\EventAggregator\EventAggregator\EventAggregator\obj\Debug\EventAggregator.exe
+C:\Users\Ben\Downloads\EventAggregator\EventAggregator\EventAggregator\obj\Debug\EventAggregator.pdb
