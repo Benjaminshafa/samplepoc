@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1912812,
+    "Username": "benyaminsh",
+    "Name": "Benyamin Shafabakhsh",
+    "Email": "benjamin.sh@hotmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/c370bfc59c659753effc7cbf63cc0323?s=80&d=identicon",
+    "PrivateToken": "224f512876fdd193309a5a8f4dd07ca827b957f0a5e316e4fd879ca6611288ff",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
